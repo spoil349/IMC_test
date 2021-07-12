@@ -29,7 +29,7 @@ For testing was used JSON-server (https://www.npmjs.com/package/json-server)
 ```
 npm install -g json-server
 ```
-2. create a 'db.json' file in any directory, with data from test-task
+2. create a 'db.json' file in any directory, with data from test-task (https://github.com/imc-s/frontend-test#readme)
 3. start json server from this directory
 ```
 json-server --watch db.json
