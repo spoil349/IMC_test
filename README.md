@@ -34,3 +34,6 @@ npm install -g json-server
 ```
 json-server --watch db.json
 ```
+
+### Task requirements
+https://github.com/imc-s/frontend-junior#readme
